@@ -6,17 +6,18 @@ I'm a passionate **Web Designer & Frontend Developer** dedicated to building cle
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **Exdos**
-- 🌱 Learning advanced **HTML** and frontend performance techniques
-- 👯 Looking to collaborate on **GitHub open-source projects**
-- 💬 Ask me anything about **Frontend Development**
-- 🎯 Focused, strategic, and always driven by end goals
+
+- 🔭 Currently working as a **Frontend Developer** on client and freelance projects.
+- 🌱 Expanding my skills in **React.js** and mastering **advanced frontend performance optimization**.
+- 👯 Actively looking to collaborate on **open-source** and **real-world web development projects**.
+- 💬 Open to questions about **Frontend Development**, **UI/UX**, or getting started in tech.
+- 🎯 I approach each project with a strategic mindset, focused on user experience and results.
 
 ---
 
 ### 🛠️ Skills & Tools
 **Languages & Frameworks:**  
-`HTML` · `CSS` · `JavaScript` · `SCSS` · `React`  
+`HTML` · `CSS` · `Tailwind CSS` · `SCSS` · `JavaScript` . `React` 
 
 **UI/UX & Design:**  
 `Figma` · `Photoshop` · `Responsive Design` · `Pixel Perfect UI`  
