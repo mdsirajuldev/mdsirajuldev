@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Md Sirajul Islam  
-### 💻 Frontend Web Developer | UI Enthusiast | Problem Solver
+### 💻 Frontend Developer & Web Designer | UI Enthusiast | Problem Solver WordPress Customization | Wix Studio | Squarespace 
 
 I'm a passionate **Web Designer & Frontend Developer** dedicated to building clean, user-friendly, and error-free websites with 100% client satisfaction. I enjoy solving real-world problems, learning new technologies, and sharing knowledge with others.
 
@@ -7,7 +7,7 @@ I'm a passionate **Web Designer & Frontend Developer** dedicated to building cle
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Frontend Developer** on client and freelance projects.
+- 🔭 Currently working as a **Frontend Developer** **WordPress Customization** **Wix Studio** **Squarespace** on client and freelance projects.
 - 🌱 Expanding my skills in **React.js** and mastering **advanced frontend performance optimization**.
 - 👯 Actively looking to collaborate on **open-source** and **real-world web development projects**.
 - 💬 Open to questions about **Frontend Development**, **UI/UX**, or getting started in tech.
@@ -17,7 +17,7 @@ I'm a passionate **Web Designer & Frontend Developer** dedicated to building cle
 
 ### 🛠️ Skills & Tools
 **Languages & Frameworks:**  
-`HTML` · `CSS` · `Tailwind CSS` · `SCSS` · `JavaScript` . `React` 
+`WordPress Customization` `Frontend Developer & Web Designer` ` Wix Studio` `Squarespace` `HTML` · `CSS` · `Tailwind CSS` · `SCSS` · `JavaScript` . `React` 
 
 **UI/UX & Design:**  
 `Figma` · `Photoshop` · `Responsive Design` · `Pixel Perfect UI`  
