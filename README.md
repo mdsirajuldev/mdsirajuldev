@@ -7,7 +7,7 @@ I'm a passionate **Web Designer & Frontend Developer**, **WordPress Customizatio
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Frontend Developer** **WordPress Customization** **Wix Studio** **Squarespace** on client and freelance projects.
+- 🔭 Currently working as a **Frontend Developer**, **WordPress Customization**, **Wix Studio**, **Squarespace** on client and freelance projects.
 - 🌱 Expanding my skills in **React.js** and mastering **advanced frontend performance optimization**.
 - 👯 Actively looking to collaborate on **open-source** and **real-world web development projects**.
 - 💬 Open to questions about **Frontend Development**, **UI/UX**, or getting started in tech.
